@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this website…"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "INSERT TITLE HERE",
@@ -12,12 +19,5 @@
     "title": "USF Libraries Workshop",
     "section": "",
     "text": "This website begun with a workshop from USF Libraries.\n\n\n\nusf libraries logo"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this website…"
   }
 ]

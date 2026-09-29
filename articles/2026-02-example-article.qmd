@@ -1,0 +1,9 @@
+---
+title: "USF Libraries Workshop"
+author: "Tylar"
+date: "2026-03-02"
+---
+
+This website begun with a workshop from USF Libraries.
+
+![usf libraries logo](/static/img/2026-02-example-article-usf-libraries-logo.png)
